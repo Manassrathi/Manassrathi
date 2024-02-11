@@ -24,7 +24,9 @@ I'm always open to exciting opportunities and collaborations. Let's innovate and
 
 ### Projects
 
-1) E-Commerce Website: A E-commerce full-stack website built using React and Redux, designed to provide a seamless and immersive online shopping experience.
+1) StudyNotion - StudyNotion is an innovative EdTech platform where instructors can upload their courses and track their progress through visually appealing pie charts created using the Chart.js npm package. The website is built on ReactJS, TailwindCSS, and Express, with backend support provided by NodeJS and MongoDB. For payment processing, StudyNotion utilizes RazorPay. The website's frontend is hosted on Vercel, and course data is securely stored on Cloudinary servers. Additionally, the website integrates Dicebear's API to automatically generate unique profile pictures for users. StudyNotion is not just another platform it's an innovative Edtech solution revolutionizing the way knowledge is shared and acquired. With StudyNotion, users - both Instructors and Students - can seamlessly connect, collaborate, and engage in a dynamic learning environment like never before.
+   
+2) E-Commerce Website: A E-commerce full-stack website built using React and Redux, designed to provide a seamless and immersive online shopping experience.
 – Tools & technologies used: React, Redux, React Hooks, React Router, GraphQL, Context API, Firebase, Redux
 Saga, Stripe
 – Responsive User Interface,Intuitive Navigation,Dynamic Product Listings,User Accounts,Shopping Cart: A userfriendly
@@ -32,10 +34,10 @@ shopping cart system displays selected items, quantities, and total prices, ensu
 process,Secure Checkout: With secure payment gateways, customers can confidently complete their purchases,
 knowing that their personal and financial information is safeguarded.
 
-2) Dog Vision: A Python based multi class image classification project built using machine learning frameworks such as Tensorflow and Scikit Learn.
+3) Dog Vision: A Python based multi class image classification project built using machine learning frameworks such as Tensorflow and Scikit Learn.
 – Tools & technologies used: Python, Google Collab, Tensorflow
 – It is used to classify multiple different breeds of Dogs among a huge dataset of various animals such as Cats etc.
 
-3) Food Vision: Python based multi class image classification project built using machine learning frameworks such as Tensorflow.
+4) Food Vision: Python based multi class image classification project built using machine learning frameworks such as Tensorflow.
 – Tools & technologies used: Python, Google Collab, Tensorflow
 – It is a multi-class image classification project used to classify 101 different classes of Food from the Food101 Dataset on Kaggle.
